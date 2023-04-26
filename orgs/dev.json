@@ -1,6 +1,6 @@
 {
   "orgName": "FSC-Interaction-Summary-242-Update - Dev Org",
-  "edition": "Developer",
+   "template": "0TT4V000000kHwT", 
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
